@@ -1,3 +1,4 @@
-*.css
-*.html
-*.java
+        *.java
+        *.html
+        *.text
+        *.css
